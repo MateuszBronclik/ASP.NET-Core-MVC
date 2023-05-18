@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CarWorkshop.MVC/1.0.0": {
+        "runtime": {
+          "CarWorkshop.MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarWorkshop.MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
