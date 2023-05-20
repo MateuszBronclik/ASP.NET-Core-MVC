@@ -29,3 +29,5 @@ D:\Programowanie\ASP.NET-Core-MVC\ASP.NET-Core-MVC\CarWorkshop.MVC\obj\Debug\net
 D:\Programowanie\ASP.NET-Core-MVC\ASP.NET-Core-MVC\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.pdb
 D:\Programowanie\ASP.NET-Core-MVC\ASP.NET-Core-MVC\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.genruntimeconfig.cache
 D:\Programowanie\ASP.NET-Core-MVC\ASP.NET-Core-MVC\CarWorkshop.MVC\obj\Debug\net7.0\ref\CarWorkshop.MVC.dll
+D:\Programowanie\ASP.NET-Core-MVC\ASP.NET-Core-MVC\CarWorkshop.MVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Programowanie\ASP.NET-Core-MVC\ASP.NET-Core-MVC\CarWorkshop.MVC\obj\Debug\net7.0\CarWorkshop.MVC.csproj.CopyComplete

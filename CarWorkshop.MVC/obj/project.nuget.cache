@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Oie8EDS6pe0cBZrCudCZtfU+PqnxjlIUYdVKmMaN7N/mV6poLiRXFGncQsn02QwxjPTXiU6/dIJXZbXjl3kk3g==",
+  "dgSpecHash": "hxocoKjRvXirGnLTb3HYPMfj73OSsLY/afmZ+Eeh3hcoHQP1TwGB+QQsSdsv6nkawutqHMb2xA6WLG1hXDozBQ==",
   "success": true,
   "projectFilePath": "D:\\Programowanie\\ASP.NET-Core-MVC\\ASP.NET-Core-MVC\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
